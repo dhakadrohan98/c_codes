@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1757690400 source:c:\users\admin\c-programms\string_structures_unions\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1757868394 source:c:\users\admin\c-programms\string_structures_unions\structures_code.c
+	<stdio.h>
+	<stdlib.h>
+
